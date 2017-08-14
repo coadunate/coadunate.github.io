@@ -8,7 +8,7 @@ With the following steps you can have the visualizer up and running in your loca
 
 - Clone the repository
 
-  `git clone https://github.com/coadunate/nanopore-data-visualizer.git ndv`
+  `git clone https://github.com/coadunate/nanopore-data-visualization.git ndv`
 
 - Go into the directory
 
